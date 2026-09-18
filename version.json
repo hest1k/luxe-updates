@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "url": "https://github.com/hest1k/luxe-updates/releases/download/v1.0.0/LuxeClientBeta.jar",
   "sha256": "",
-  "changelog": "добнул функцию хитсаунд, пофиксил аутомейс"
+  "changelog": "добнул функцию хитсаунд, пофиксил аутомейс+фикс крашей"
 }
